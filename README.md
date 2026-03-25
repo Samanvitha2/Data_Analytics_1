@@ -1,1 +1,1 @@
-
+This project analyzes customer shopping behavior using transactional data from 3,900 purchases across multiple product categories. The objective is to uncover insights into spending patterns, customer segments, product preferences, subscription behavior, and discount impact to guide strategic business decisions.
